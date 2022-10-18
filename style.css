@@ -1,0 +1,14 @@
+div {
+    width: 300px;
+    height: 400px;
+    background-image: url(https://funart.pro/uploads/posts/2021-12/1640308020_5-funart-pro-p-foni-s-chernimi-kotami-5.jpg), linear-gradient(45deg, #ffbc89, rgb(212, 121, 121));
+    background-blend-mode: overlay;
+  }
+  h1{
+    color: rgb(25, 133, 83)  ;
+    font-size: 100px;
+    font-size: initial;
+    font-weight: 803;
+    font-family: 'Courier New', Courier, monospace;
+    
+  } 
